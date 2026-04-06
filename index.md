@@ -5,7 +5,7 @@ title: Portfolio
 
 # Jayvee Torreno – Game Developer Portfolio
 
-**Resume:** [Jayvee Russel A. Torreno – Resume](#)
+**Resume:** [Jayvee Russel A. Torreno – Resume](https://docs.google.com/document/d/1E0FHyzZMEa9nFDtGpXmYzGOTRmFDFlKWXBDYEM4vmvM/edit?tab=t.0)
 Fourth-year Game Development student specializing in gameplay programming and systems design. Experienced in developing Unity-based 3D games with foundational experience in using Unreal Engine 5, and building 2D games using SFML and working with graphics APIs such as OpenGL and DirectX. Seeking internship roles in gameplay programming or technical game development.
 
 ---
